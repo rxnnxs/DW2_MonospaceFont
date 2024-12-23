@@ -1,0 +1,71 @@
+!Package
+SerializedVersion: {Assets: 3.1.0.0}
+Meta:
+    Name: MonospaceFont.Windows
+    Version: 1.0.0
+    Authors: []
+    Owners: []
+    Dependencies: null
+AssetFolders:
+    -   Path: !dir Assets
+ResourceFolders:
+    - !dir Resources
+OutputGroupDirectories: {}
+ExplicitFolders: []
+Bundles:
+    -   Name: fonts
+        Selectors:
+            - !PathSelector
+                Paths:
+                    - UserInterface/
+        Dependencies: []
+TemplateFolders: []
+RootAssets:
+    - 0126ca8d-7079-4022-9573-429fbebcf4a1:UserInterface/Fonts/Font28Bold
+    - 063f712f-b261-4130-aaf6-29f3e4669c15:UserInterface/Fonts/Font46
+    - 0f3fd565-3227-41a7-8099-4dd15b142f1a:UserInterface/Fonts/Font48
+    - 121cebf6-bc5c-4883-81fa-128fcaa5e3b8:UserInterface/Fonts/Font20Bold
+    - 1255a99d-4d20-480d-affa-cd2811977dd6:UserInterface/Fonts/Font36Bold
+    - 15dcd7e4-3864-48a3-86ea-c84a57c09fdd:UserInterface/Fonts/Font48Bold
+    - 1e7cba2b-4a4c-4455-b8b8-586af9e83a7d:UserInterface/Fonts/Font12
+    - 22a13d31-d474-48a2-9ff9-b56d887a721a:UserInterface/Fonts/Font34
+    - 260dae03-5aad-47ed-87ff-90e93df7e12a:UserInterface/Fonts/Font16Bold
+    - 2a79476b-8a70-4a39-ad80-62a3f17b45f9:UserInterface/Fonts/Font30Bold
+    - 2d28919a-b173-446c-9af1-992d377a9eac:UserInterface/Fonts/Font12Bold
+    - 394ccae4-35bb-4903-acd4-c643453663ec:UserInterface/Fonts/Font42
+    - 3be0b356-b03c-4c71-b069-fe468ddfe040:UserInterface/Fonts/Font42Bold
+    - 3d8d18f0-76b5-4f6b-bcdb-20dc4f817c80:UserInterface/Fonts/Font38Bold
+    - 3e68fef1-02ea-47fc-9d10-97b634e4248f:UserInterface/Fonts/Font40
+    - 4773edfc-7fff-47d8-9bc0-9555db59e820:UserInterface/Fonts/Font46Bold
+    - 4aa0631a-2d0f-4373-9805-f79fa769007c:UserInterface/Fonts/Font34Bold
+    - 4ffd38ce-fa7c-47ea-addf-b943a6c71f2f:UserInterface/Fonts/Font4
+    - 56557f82-843a-4eda-b028-92ed0baa98ee:UserInterface/Fonts/Font18Bold
+    - 56ce0272-641b-4c5d-bd2e-f3677060c076:UserInterface/Fonts/Font4Bold
+    - 5ab0267a-0122-4247-9f6f-1e5f50079df3:UserInterface/Fonts/Font18
+    - 5f618962-68f8-43f9-b1e1-5d9052f1fb56:UserInterface/Fonts/Font14
+    - 60a9e51a-56c8-4818-b687-57a053fe9e66:UserInterface/Fonts/Font10
+    - 7a33da0d-6e1b-4e31-a40e-aa534213e125:UserInterface/Fonts/Font10Bold
+    - 7d7b34d5-4b62-4739-8c54-ceb783045e02:UserInterface/Fonts/Font44Bold
+    - 84d6da08-ec8a-4d9d-8fd5-b7526aee2cf9:UserInterface/Fonts/Font6
+    - 9361292a-7898-4166-b72a-c1f0f946af69:UserInterface/Fonts/Font26
+    - a129aa31-90a1-4d6e-9ef6-e2ee9c78975f:UserInterface/Fonts/Font28
+    - a13d08b3-077f-403d-a769-a6a3c0304267:UserInterface/Fonts/Font26Bold
+    - a1e7e2fc-981f-49b7-b034-2c84e512cedb:UserInterface/Fonts/Font20
+    - a6a3ec30-e874-41a6-9ed9-98d6b7ec53fe:UserInterface/Fonts/Font40Bold
+    - a96b5acb-e772-4572-83d8-c678193c9ef6:UserInterface/Fonts/Font38
+    - ab92f539-ec5c-46a2-9107-f38f111a05b6:UserInterface/Fonts/Font15Bold
+    - ac92e8be-938d-4a59-a3f4-45a82fbee386:UserInterface/Fonts/Font32Bold
+    - b07c2feb-a7a9-40a2-b573-96b2cff6619c:UserInterface/Fonts/Font24
+    - b0cd89d8-a6d0-4932-a4a6-d09ec9730bcf:UserInterface/Fonts/Font44
+    - b452d540-8617-449f-947a-0f42a95c33f2:UserInterface/Fonts/Font24Bold
+    - b49214d2-a937-46cb-ac8b-2a0e67ab1604:UserInterface/Fonts/Font30
+    - b525ff55-9fb6-46bc-b221-dcd3f3d8e4fa:UserInterface/Fonts/Font22Bold
+    - b8fbbfc5-a8d1-47e0-b1e1-45ef94d2dc0b:UserInterface/Fonts/Font36
+    - c3080fac-2f66-42d1-9973-8a8cce99fc94:UserInterface/Fonts/Font8
+    - c6a0366c-d19a-4def-9213-03832a881b40:UserInterface/Fonts/Font6Bold
+    - cbdbc703-8c9a-4d64-a7cf-8be1c341144c:UserInterface/Fonts/Font16
+    - d2628340-d1d6-432f-9d9d-a5d99b46fdf3:UserInterface/Fonts/Font14Bold
+    - dd1d6a5d-38f9-40ff-9b4c-fb6fe19d97d1:UserInterface/Fonts/Font8Bold
+    - e5f97343-cbf4-4c05-a0f1-792216c74fe8:UserInterface/Fonts/Font32
+    - ecabf4cc-60df-4ab6-aaac-42458a539fe0:UserInterface/Fonts/Font22
+    - ff3291a1-5420-4ab8-a000-8698ddab45ec:UserInterface/Fonts/Font15

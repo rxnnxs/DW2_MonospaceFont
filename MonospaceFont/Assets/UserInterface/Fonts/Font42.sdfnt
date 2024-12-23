@@ -1,0 +1,14 @@
+!SpriteFont
+Id: 394ccae4-35bb-4903-acd4-c643453663ec
+SerializedVersion: {Stride: 2.0.0.0}
+Tags:
+    - Font20
+FontSource: !FileFontProvider
+    Source: !file ../../../../JetBrainsMono-Regular.ttf
+FontType: !OfflineRasterizedSpriteFontType
+    Size: 42.0
+    CharacterSet: null
+    CharacterRegions:
+        d26faaad561bea5beda5d3a3dbb09fd8:
+            Start: "\0"
+            End: "΄"

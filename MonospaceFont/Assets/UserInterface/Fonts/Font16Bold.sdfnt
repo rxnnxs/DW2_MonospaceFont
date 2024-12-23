@@ -1,0 +1,13 @@
+!SpriteFont
+Id: 260dae03-5aad-47ed-87ff-90e93df7e12a
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+FontSource: !FileFontProvider
+    Source: !file ../../../../JetBrainsMono-Bold.ttf
+FontType: !OfflineRasterizedSpriteFontType
+    Size: 16.0
+    CharacterSet: null
+    CharacterRegions:
+        be2bfc0e4594d90c89ff9aa676485faa:
+            Start: "\0"
+            End: "΄"
