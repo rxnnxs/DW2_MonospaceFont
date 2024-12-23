@@ -5,7 +5,7 @@ Tags: []
 FontSource: !FileFontProvider
     Source: !file ../../../../JetBrainsMono-Regular.ttf
 FontType: !OfflineRasterizedSpriteFontType
-    Size: 6.0
+    Size: 4.0
     CharacterSet: null
     CharacterRegions:
         af9f4d2e02c171f77d2e02275b22288c:
