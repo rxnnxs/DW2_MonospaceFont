@@ -4,7 +4,7 @@ SerializedVersion: {Stride: 2.0.0.0}
 Tags:
     - Font20
 FontSource: !FileFontProvider
-    Source: !file ../../../../JetBrainsMono-Regular.ttf
+    Source: !file ../../../../Unispace-RegularVertHor08.otf
 FontType: !OfflineRasterizedSpriteFontType
     Size: 10.0
     CharacterSet: null

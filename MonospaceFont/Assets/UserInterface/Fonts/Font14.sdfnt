@@ -3,7 +3,7 @@ Id: 5f618962-68f8-43f9-b1e1-5d9052f1fb56
 SerializedVersion: {Stride: 2.0.0.0}
 Tags: []
 FontSource: !FileFontProvider
-    Source: !file ../../../../JetBrainsMono-Regular.ttf
+    Source: !file ../../../../Unispace-RegularVertHor08.otf
 FontType: !OfflineRasterizedSpriteFontType
     Size: 7.0
     CharacterSet: null

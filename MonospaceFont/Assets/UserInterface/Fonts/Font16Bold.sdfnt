@@ -3,7 +3,7 @@ Id: 260dae03-5aad-47ed-87ff-90e93df7e12a
 SerializedVersion: {Stride: 2.0.0.0}
 Tags: []
 FontSource: !FileFontProvider
-    Source: !file ../../../../JetBrainsMono-Bold.ttf
+    Source: !file ../../../../Unispace-BoldVertHor08.otf
 FontType: !OfflineRasterizedSpriteFontType
     Size: 9.0
     CharacterSet: null
